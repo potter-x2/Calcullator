@@ -52,7 +52,7 @@ namespace Calculator
                 double result = 0;
 
                 // Ask the user to type the first number.
-                Console.Write("Type a number, and then press Enter: ");
+                Console.Write("Let's type a number! and then press Enter: ");
                 numInput1 = Console.ReadLine();
 
                 double cleanNum1 = 0;
